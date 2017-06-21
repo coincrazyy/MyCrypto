@@ -1,0 +1,4 @@
+UseDollar Y
+Ethereum 0
+Bitcoin 0
+Lykke 0
